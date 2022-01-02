@@ -6,14 +6,13 @@ INF = int(1e9)
 
 graph = [[] for _ in range(v+1)]
 distance = [INF] * (v+1)
+q = []
+heapq.heappush(q, [0, k])
+distance[k] = 0
 
 for _ in range(e):
     a, b, c = map(int, input().split())
     graph[a].append([b, c])
-
-q = []
-heapq.heappush(q, [0, k])
-distance[k] = 0
 
 while q:
     dist, now = heapq.heappop(q)
