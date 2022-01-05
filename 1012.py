@@ -18,10 +18,10 @@ for _ in range(t):
             if graph[i][j] == 1 and visited[i][j] == False:
                 count += 1
                 q = [(i, j)]
+                visited[i][j] = True
                 while q:
                     x, y = q.pop(0)
-                    visited[x][y] = True
-
+                    
                     for k in range(4):
                         nx = x + dx[k]
                         ny = y + dy[k]
@@ -31,4 +31,5 @@ for _ in range(t):
                         if visited[nx][ny] or graph[nx][ny] == 0:
                             continue
                         q.append((nx, ny))
+                        visited[nx][ny] = True
     print(count)
