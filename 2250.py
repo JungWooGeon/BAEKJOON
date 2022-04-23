@@ -1,8 +1,5 @@
 n = int(input())
 
-col = [0] * (n+1)
-level = [0] * (n+1)
-
 # col, level, index
 col_level = [[0, 0, i] for i in range(n+1)]
 
@@ -18,22 +15,23 @@ for _ in range(n):
     child[a].append(b)
     child[a].append(c)
 
+# root node index
 p_index = -1
 for i in range(1, len(parent)):
     if parent[i] == []:
         p_index = i
         break
 
+# current는 현재 column
 current = 1
+# i는 현재 index, l은 현재 level
 def dfs(i, l):
     global current
     left, right = child[i]
-    level[i] = l
     col_level[i][1] = l
 
     if left != -1:
         dfs(left, l+1)
-    col[i] = current
     col_level[i][0] = current
     current = current + 1
     if right != -1:
@@ -42,6 +40,8 @@ def dfs(i, l):
 dfs(p_index, 1)
 col_level.sort(key=lambda x: (x[1], x[0]))
 
+
+# search max value
 first = 0
 lev = 0
 max_result = 0
