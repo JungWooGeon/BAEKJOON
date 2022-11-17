@@ -4,7 +4,7 @@ def getDSLR(x):
     dslr = []
     
     # DSLR
-    dslr.append((x * 2) % 10000)
+    dslr.append((x << 1) % 10000)
     dslr.append(x - 1 if x != 0 else 9999)
     dslr.append((x * 10) % 10000 + (x * 10) // 10000)
     dslr.append((x % 10) * 10000 // 10 + (x // 10))
@@ -28,7 +28,7 @@ def main():
 
         while q:
             a, results = q.popleft()
-            
+
             if a == b:
                 print(''.join(results))
                 break
