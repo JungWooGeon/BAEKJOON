@@ -3,7 +3,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=belif)](https://solved.ac/belif/)
 
 |날짜|번호|제목|난이도|풀이 유형|풀이|
-|:----:|:----:|:---:|:---:|:--------:|:--------:|
+|:--:|:--:|:--:|:--:|:----:|:----:|
 |22/12/05|[1766](https://www.acmicpc.net/problem/1766)|[문제집](https://www.acmicpc.net/problem/1766)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|위상 정렬, 우선순위 큐|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/1766.py)
 |22/12/04|[11779](https://www.acmicpc.net/problem/11779)|[최소비용 구하기 2](https://www.acmicpc.net/problem/11779)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|다익스트라|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/11779.py) [<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=FFFFFF">](https://velog.io/@pass/%EB%B0%B1%EC%A4%80-11779-%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-2)
 |22/12/04|[2206](https://www.acmicpc.net/problem/1918)|[후위 표기식](https://www.acmicpc.net/problem/1918)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|스택|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/1918.py) [<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=FFFFFF">](https://velog.io/@pass/%EB%B0%B1%EC%A4%80-1918-%ED%9B%84%EC%9C%84-%ED%91%9C%EA%B8%B0%EC%8B%9D)
