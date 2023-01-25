@@ -4,6 +4,7 @@
 
 |날짜|번호|제목|난이도|풀이 유형|풀이|
 |:--:|:--:|:--:|:--:|:----:|:----:|
+|23/01/25|[11003](https://www.acmicpc.net/problem/11003)|[최솟값 찾기](https://www.acmicpc.net/problem/11003)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/>|덱, 우선순위 큐|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/11003.py)
 |23/01/24|[1700](https://www.acmicpc.net/problem/1700)|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/>|그리디|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/1700.py)
 |23/01/23|[1826](https://www.acmicpc.net/problem/1826)|[연료 채우기](https://www.acmicpc.net/problem/1826)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|그리디, 우선순위 큐|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/1826.py)
 |23/01/23|[5052](https://www.acmicpc.net/problem/5052)|[전화번호 목록](https://www.acmicpc.net/problem/5052)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|트라이|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/5052.py)
