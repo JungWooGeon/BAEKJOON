@@ -4,6 +4,7 @@
 
 |날짜|번호|제목|난이도|풀이 유형|풀이|
 |:--:|:--:|:--:|:--:|:----:|:----:|
+|23/02/02|[2056](https://www.acmicpc.net/problem/2056)|[작업](https://www.acmicpc.net/problem/2056)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|위상 정렬|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/2056.py)
 |23/01/31|[3109](https://www.acmicpc.net/problem/3109)|[빵집](https://www.acmicpc.net/problem/3109)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|그리디, dfs|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/3109.py)
 |23/01/30|[2812](https://www.acmicpc.net/problem/2812)|[크게 만들기](https://www.acmicpc.net/problem/2812)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|그리디, 스택|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/2812.py)
 |23/01/27|[16566](https://www.acmicpc.net/problem/16566)|[카드 게임](https://www.acmicpc.net/problem/16566)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/>|이분 탐색, 분리 집합|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/16566.py)
