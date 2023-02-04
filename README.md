@@ -4,6 +4,7 @@
 
 |날짜|번호|제목|난이도|풀이 유형|풀이|
 |:--:|:--:|:--:|:--:|:----:|:----:|
+|23/02/05|[1005](https://www.acmicpc.net/problem/1005)|[ACM Craft](https://www.acmicpc.net/problem/1005)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|위상 정렬|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/1005.py)
 |23/02/03|[9466](https://www.acmicpc.net/problem/9466)|[텀 프로젝트](https://www.acmicpc.net/problem/9466)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|dfs|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/9466.py)
 |23/02/03|[20040](https://www.acmicpc.net/problem/20040)|[사이클 게임](https://www.acmicpc.net/problem/20040)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|분리 집합|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/20040.py)
 |23/02/02|[2056](https://www.acmicpc.net/problem/2056)|[작업](https://www.acmicpc.net/problem/2056)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|위상 정렬|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/2056.py)
