@@ -4,6 +4,7 @@
 
 |날짜|번호|제목|난이도|풀이 유형|풀이|
 |:--:|:--:|:--:|:--:|:----:|:----:|
+|23/02/13|[14567](https://www.acmicpc.net/problem/14567)|[선수과목 (Prerequisite)](https://www.acmicpc.net/problem/14567)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|위상 정렬|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/14567.py)
 |23/02/09|[17144](https://www.acmicpc.net/problem/17144)|[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|구현|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/17144.py)
 |23/02/09|[16724](https://www.acmicpc.net/problem/16724)|[피리 부는 사나이](https://www.acmicpc.net/problem/16724)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|분리 집합|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/16724.py)
 |23/02/08|[2239](https://www.acmicpc.net/problem/2239)|[스도쿠](https://www.acmicpc.net/problem/2239)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|구현, 백트래킹|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/2239.py)
