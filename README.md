@@ -4,6 +4,7 @@
 
 |날짜|번호|제목|난이도|풀이 유형|풀이|
 |:--:|:--:|:--:|:--:|:----:|:----:|
+|23/02/22|[13975](https://www.acmicpc.net/problem/13975)|[파일 합치기 3](https://www.acmicpc.net/problem/13975)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|우선순위 큐|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/13975.py)
 |23/02/20|[11437](https://www.acmicpc.net/problem/11437)|[LCA](https://www.acmicpc.net/problem/11437)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|최소공통조상|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/11437.py)
 |23/02/20|[2631](https://www.acmicpc.net/problem/2631)|[줄세우기](https://www.acmicpc.net/problem/2631)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|dp, LIS|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/2631.py)
 |23/02/13|[14725](https://www.acmicpc.net/problem/14725)|[개미굴](https://www.acmicpc.net/problem/14725)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|트라이, 문자열|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/14725.py)
