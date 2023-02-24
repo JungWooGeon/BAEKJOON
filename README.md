@@ -2,6 +2,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=belif)](https://solved.ac/belif/)
 
+<br>
+
 |날짜|번호|제목|난이도|풀이 유형|풀이|
 |:--:|:--:|:--:|:--:|:----:|:----:|
 |23/02/23|[1937](https://www.acmicpc.net/problem/1937)|[욕심쟁이 판다](https://www.acmicpc.net/problem/1937)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|dfs, dp|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/1937.py)
