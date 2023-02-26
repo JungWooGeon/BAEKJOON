@@ -6,6 +6,7 @@
 
 |날짜|번호|제목|난이도|풀이 유형|풀이|
 |:--:|:--:|:--:|:--:|:----:|:----:|
+|23/02/27|[16938](https://www.acmicpc.net/problem/16938)|[캠프 준비](https://www.acmicpc.net/problem/16938)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|브루트포스|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/16938.py)
 |23/02/26|[3584](https://www.acmicpc.net/problem/3584)|[가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|최소공통조상|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/3584.py)
 |23/02/23|[1937](https://www.acmicpc.net/problem/1937)|[욕심쟁이 판다](https://www.acmicpc.net/problem/1937)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|dfs, dp|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/1937.py)
 |23/02/22|[13975](https://www.acmicpc.net/problem/13975)|[파일 합치기 3](https://www.acmicpc.net/problem/13975)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|우선순위 큐|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/13975.py)
