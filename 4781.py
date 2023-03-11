@@ -11,7 +11,7 @@ while True:
     if n == 0 and m == 0:
         break
 
-    # 1.00 -> 100 으로 치환하여 dp의 indxe로 활용
+    # 1.00 -> 100 으로 치환하여 dp의 index로 활용
     dp = [0] * (m + 1)
     bag = []
 
