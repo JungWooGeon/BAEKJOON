@@ -28,7 +28,7 @@ def dfs_check(x, visited, cost):
         dfs_check(next, visited, cost + dist)
         visited[next] = False
 
-# 유니온 파인드
+# 유니온-파인드
 def find_parent(parent, x):
     if parent[x] != x:
         parent[x] = find_parent(parent, parent[x])
