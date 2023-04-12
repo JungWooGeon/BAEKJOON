@@ -6,6 +6,7 @@
 
 |날짜|번호|제목|난이도|풀이 유형|풀이|
 |:--:|:--:|:--:|:--:|:----:|:----:|
+|23/04/12|[20010](https://www.acmicpc.net/problem/20010)|[악덕 영주 혜유](https://www.acmicpc.net/problem/20010)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|크루스칼, dfs|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/20010.py)
 |23/04/09|[10942](https://www.acmicpc.net/problem/10942)|[팰린드롬?](https://www.acmicpc.net/problem/10942)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|dp|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/10942.py)
 |23/04/03|[2357](https://www.acmicpc.net/problem/2357)|[최솟값과 최댓값](https://www.acmicpc.net/problem/2357)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/>|세그먼트 트리|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/2357.py)
 |23/04/01|[1941](https://www.acmicpc.net/problem/1941)|[소문난 칠공주](https://www.acmicpc.net/problem/1941)| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|브루트포스, bfs|[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF">](https://github.com/JungWooGeon/BAEKJOON/blob/main/1941.py)
